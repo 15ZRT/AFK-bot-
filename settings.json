@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "AFK bot",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "noxx3444.aternos.me",
@@ -54,15 +54,15 @@
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10000
+      "interval": 6
     }
   },
   "modules": {
-    "avoidMobs": true,
+    "avoidMobs": false,
     "combat": true,
     "beds": false,
     "chat": true,
-    "console-commands": true
+    "console-commands": false
   },
   "combat": {
     "attack-mobs": true,
