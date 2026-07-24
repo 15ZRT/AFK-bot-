@@ -3,9 +3,9 @@
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
-  "server": {
+  "server": {noxx3444.aternos.me
     "ip": "noxx3444.aternos.me ",
     "port": 42494,
     "version": "",
