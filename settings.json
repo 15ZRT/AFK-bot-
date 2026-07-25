@@ -18,10 +18,10 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
     },
     "anti-afk": {
-      "enabled": true,
+      "enabled": false,
       "sneak": true
     },
     "chat-messages": {
@@ -59,7 +59,7 @@
     "avoidMobs": false,
     "combat": false,
     "beds": false,
-    "chat": true,
+    "chat": false,
     "console-commands": false
   },
   "combat": {
