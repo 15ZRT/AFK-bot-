@@ -19,7 +19,6 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
     },
     "anti-afk": {
       "enabled": true,
@@ -41,7 +40,7 @@
     "max-reconnect-delay": 120000
   },
   "movement": {
-    "enabled": true,
+    "enabled": false,
     "circle-walk": {
       "enabled": true,
       "radius": 4,
@@ -58,13 +57,13 @@
   },
   "modules": {
     "avoidMobs": false,
-    "combat": true,
+    "combat": false,
     "beds": false,
     "chat": true,
     "console-commands": false
   },
   "combat": {
-    "attack-mobs": true,
+    "attack-mobs": false,
     "auto-eat": true
   },
   "beds": {
